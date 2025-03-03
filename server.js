@@ -65,8 +65,22 @@ app.post("/login", async (req, res) => {
   }
 });
 
-// 🚀 Start Server
+// 🚀 Start Server with Port Conflict Handling
 const PORT = process.env.PORT || 10000;
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
   console.log(`✅ Server running on port ${PORT}`);
+});
+
+// ✅ Handle Port Already in Use Error
+server.on("error", (err) => {
+  if (err.code === "EADDRINUSE") {
+    console.error(`⚠️ Port ${PORT} is already in use. Retrying with another port...`);
+    setTimeout(() => {
+      server.listen(0, () => {
+        console.log(`✅ Server running on a new available port`);
+      });
+    }, 1000);
+  } else {
+    console.error("🚨 Server Error:", err);
+  }
 });
