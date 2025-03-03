@@ -12,22 +12,22 @@ app.use(express.json());
 // 🚀 Signup Route
 app.post("/signup", async (req, res) => {
   const { email, password } = req.body;
-  
+
   try {
-    // Check if the email is already registered
+    // Check if the email already exists
     const existingUser = await pool.query("SELECT * FROM users WHERE email = $1", [email]);
     if (existingUser.rows.length > 0) {
       return res.status(400).json({ error: "User already exists" });
     }
 
-    // Hash password and store user in DB
+    // Hash password before storing
     const hashedPassword = await bcrypt.hash(password, 10);
     const result = await pool.query(
-      "INSERT INTO users (email, password) VALUES ($1, $2) RETURNING *",
+      "INSERT INTO users (email, password) VALUES ($1, $2) RETURNING id, email",
       [email, hashedPassword]
     );
 
-    res.status(201).json({ user: result.rows[0] });
+    res.status(201).json({ message: "User created successfully", user: result.rows[0] });
   } catch (err) {
     console.error("Signup Error:", err.message);
     res.status(500).json({ error: "Internal Server Error" });
@@ -40,20 +40,24 @@ app.post("/login", async (req, res) => {
 
   try {
     const user = await pool.query("SELECT * FROM users WHERE email = $1", [email]);
-    if (user.rows.length === 0) return res.status(400).json({ error: "User not found" });
+    if (user.rows.length === 0) {
+      return res.status(400).json({ error: "User not found" });
+    }
 
     // Compare hashed passwords
     const validPassword = await bcrypt.compare(password, user.rows[0].password);
-    if (!validPassword) return res.status(401).json({ error: "Invalid password" });
+    if (!validPassword) {
+      return res.status(401).json({ error: "Invalid password" });
+    }
 
     // Generate JWT token
     const token = jwt.sign(
-      { userId: user.rows[0].id },
+      { userId: user.rows[0].id, email: user.rows[0].email },
       process.env.JWT_SECRET,
-      { expiresIn: "1h" }
+      { expiresIn: "2h" }
     );
 
-    res.json({ token });
+    res.json({ message: "Login successful", token });
   } catch (err) {
     console.error("Login Error:", err.message);
     res.status(500).json({ error: "Internal Server Error" });
@@ -62,7 +66,7 @@ app.post("/login", async (req, res) => {
 
 // 🎯 Health Check Route (for debugging & monitoring)
 app.get("/", (req, res) => {
-  res.send("API is running...");
+  res.json({ message: "Backend is running!", status: "OK" });
 });
 
 // 🚀 Start Server with Port Conflict Handling
