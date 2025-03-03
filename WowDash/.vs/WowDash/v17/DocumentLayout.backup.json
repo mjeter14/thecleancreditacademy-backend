@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Theme\\Wowtheme7\\WowDash\\ASP .NET\\WowDash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{764BE6AD-C33A-4A5D-87FE-1805323FCF6C}|WowDash.csproj|d:\\theme\\wowtheme7\\wowdash\\asp .net\\wowdash\\pages\\components\\tooltip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BE6AD-C33A-4A5D-87FE-1805323FCF6C}|WowDash.csproj|solutionrelative:pages\\components\\tooltip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BE6AD-C33A-4A5D-87FE-1805323FCF6C}|WowDash.csproj|d:\\theme\\wowtheme7\\wowdash\\asp .net\\wowdash\\pages\\testimonials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BE6AD-C33A-4A5D-87FE-1805323FCF6C}|WowDash.csproj|solutionrelative:pages\\testimonials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tooltip.cshtml",
+              "DocumentMoniker": "D:\\Theme\\Wowtheme7\\WowDash\\ASP .NET\\WowDash\\Pages\\Components\\Tooltip.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Components\\Tooltip.cshtml",
+              "ToolTip": "D:\\Theme\\Wowtheme7\\WowDash\\ASP .NET\\WowDash\\Pages\\Components\\Tooltip.cshtml",
+              "RelativeToolTip": "Pages\\Components\\Tooltip.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T11:45:01.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Testimonials.cshtml",
+              "DocumentMoniker": "D:\\Theme\\Wowtheme7\\WowDash\\ASP .NET\\WowDash\\Pages\\Testimonials.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Testimonials.cshtml",
+              "ToolTip": "D:\\Theme\\Wowtheme7\\WowDash\\ASP .NET\\WowDash\\Pages\\Testimonials.cshtml",
+              "RelativeToolTip": "Pages\\Testimonials.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T10:52:30.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

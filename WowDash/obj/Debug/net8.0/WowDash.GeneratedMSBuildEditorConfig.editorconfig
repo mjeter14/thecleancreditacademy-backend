@@ -1,0 +1,423 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WowDash
+build_property.RootNamespace = WowDash
+build_property.ProjectDir = D:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Ai/CodeGenerator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWlcQ29kZUdlbmVyYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Ai/CodeGeneratorNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWlcQ29kZUdlbmVyYXRvck5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Ai/ImageGenerator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWlcSW1hZ2VHZW5lcmF0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Ai/TextGenerator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWlcVGV4dEdlbmVyYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Ai/TextGeneratorNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWlcVGV4dEdlbmVyYXRvck5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Ai/VideoGenerator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWlcVmlkZW9HZW5lcmF0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Ai/VoiceGenerator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWlcVm9pY2VHZW5lcmF0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Authentication/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Authentication/Signin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cU2lnbmluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Authentication/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cU2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Blankpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhbmtwYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Blog/AddBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xBZGRCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Blog/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Blog/BlogDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xCbG9nRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Calendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsZW5kYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Chart/ColumnChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhcnRcQ29sdW1uQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Chart/LineChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhcnRcTGluZUNoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Chart/PieChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhcnRcUGllQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Chat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/ChatProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhdFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Comingsoon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29taW5nc29vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Alerts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xBbGVydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Avatars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xBdmF0YXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Badges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xCYWRnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Button.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xCdXR0b24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Calendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xDYWxlbmRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xDYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Colors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xDb2xvcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Dropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xEcm9wZG93bi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xQYWdpbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Progressbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xQcm9ncmVzc2Jhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Radio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xSYWRpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/StarRatings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xTdGFyUmF0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Switch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xTd2l0Y2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/TabAndAccordion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xUYWJBbmRBY2NvcmRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Tags.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xUYWdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Tooltip.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xUb29sdGlwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xUeXBvZ3JhcGh5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xVcGxvYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Components/Videos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xWaWRlb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/CryptoCurrency/Marketplace.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3J5cHRvQ3VycmVuY3lcTWFya2V0cGxhY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/CryptoCurrency/MarketplaceDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3J5cHRvQ3VycmVuY3lcTWFya2V0cGxhY2VEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/CryptoCurrency/Portfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3J5cHRvQ3VycmVuY3lcUG9ydGZvbGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/CryptoCurrency/Wallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3J5cHRvQ3VycmVuY3lcV2FsbGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Dashboard/Index10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4MTAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Dashboard/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Dashboard/Index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4My5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Dashboard/Index4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4NC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Dashboard/Index5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4NS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Dashboard/Index6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4Ni5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Dashboard/Index7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4Ny5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Dashboard/Index8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4OC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Dashboard/Index9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4OS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Faqs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFxcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Forms/FormValidation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXNcRm9ybVZhbGlkYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Forms/FormWizard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXNcRm9ybVdpemFyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Forms/InputForms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXNcSW5wdXRGb3Jtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Forms/InputLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXNcSW5wdXRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Invoice/AddNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52b2ljZVxBZGROZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Invoice/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52b2ljZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Invoice/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52b2ljZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Invoice/Preview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52b2ljZVxQcmV2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Kanban.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2FuYmFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Maintenance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpbnRlbmFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Pricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpY2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/RolesAndAccess/AssignRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sZXNBbmRBY2Nlc3NcQXNzaWduUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/RolesAndAccess/RoleAccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sZXNBbmRBY2Nlc3NcUm9sZUFjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Settings/Company.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcQ29tcGFueS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Settings/Currencies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcQ3VycmVuY2llcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Settings/Languages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcTGFuZ3VhZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Settings/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcTm90aWZpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Settings/NotificationAlert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcTm90aWZpY2F0aW9uQWxlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Settings/PaymentGetway.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcUGF5bWVudEdldHdheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Settings/Theme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcVGhlbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Shared/Partials/_Breadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhcnRpYWxzXF9CcmVhZGNydW1iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Shared/Partials/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhcnRpYWxzXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Shared/Partials/_Head.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhcnRpYWxzXF9IZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Shared/Partials/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhcnRpYWxzXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Shared/Partials/_Scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhcnRpYWxzXF9TY3JpcHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Shared/Partials/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhcnRpYWxzXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Stared.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhcmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Table/BasicTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFibGVcQmFzaWNUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Table/DataTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFibGVcRGF0YVRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/TermsAndConditions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVybXNBbmRDb25kaXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Testimonials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdGltb25pYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Users/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQWRkVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Users/UsersGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcnNHcmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Users/UsersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcnNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Users/ViewProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVmlld1Byb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/ViewDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Widgets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2lkZ2V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f5tq9zyzq7
+
+[D:/Theme/Wowtheme7/WowDash/ASP .NET/WowDash/Pages/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-nwd6kdmyg1

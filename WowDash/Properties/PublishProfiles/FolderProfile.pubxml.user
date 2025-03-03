@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-10-05T11:52:03.0319386Z||;True|2024-10-04T17:28:23.0298386+05:30||;True|2024-09-13T10:56:39.6947073+05:30||;True|2024-09-11T19:24:49.0864244+05:30||;True|2024-09-09T17:06:00.8264999+05:30||;True|2024-09-07T18:13:14.7885783+05:30||;True|2024-09-07T18:10:12.8514182+05:30||;True|2024-09-07T18:09:56.9003204+05:30||;True|2024-09-07T18:06:09.7959885+05:30||;True|2024-09-07T17:51:00.7258914+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

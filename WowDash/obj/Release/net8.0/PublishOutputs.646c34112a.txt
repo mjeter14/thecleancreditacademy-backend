@@ -1,0 +1,8 @@
+E:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash\obj\Release\net8.0\PubTmp\Out\WowDash.exe
+E:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash\obj\Release\net8.0\PubTmp\Out\package.json
+E:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash\obj\Release\net8.0\PubTmp\Out\WowDash.dll
+E:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash\obj\Release\net8.0\PubTmp\Out\WowDash.deps.json
+E:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash\obj\Release\net8.0\PubTmp\Out\WowDash.runtimeconfig.json
+E:\Theme\Wowtheme7\WowDash\ASP .NET\WowDash\obj\Release\net8.0\PubTmp\Out\WowDash.pdb
