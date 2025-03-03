@@ -9,18 +9,21 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// ✅ Root Route to Check if Backend is Running
+app.get("/", (req, res) => {
+  res.json({ message: "🚀 Backend is live!", status: "OK" });
+});
+
 // 🚀 Signup Route
 app.post("/signup", async (req, res) => {
   const { email, password } = req.body;
 
   try {
-    // Check if the email already exists
     const existingUser = await pool.query("SELECT * FROM users WHERE email = $1", [email]);
     if (existingUser.rows.length > 0) {
       return res.status(400).json({ error: "User already exists" });
     }
 
-    // Hash password before storing
     const hashedPassword = await bcrypt.hash(password, 10);
     const result = await pool.query(
       "INSERT INTO users (email, password) VALUES ($1, $2) RETURNING id, email",
@@ -44,13 +47,11 @@ app.post("/login", async (req, res) => {
       return res.status(400).json({ error: "User not found" });
     }
 
-    // Compare hashed passwords
     const validPassword = await bcrypt.compare(password, user.rows[0].password);
     if (!validPassword) {
       return res.status(401).json({ error: "Invalid password" });
     }
 
-    // Generate JWT token
     const token = jwt.sign(
       { userId: user.rows[0].id, email: user.rows[0].email },
       process.env.JWT_SECRET,
@@ -64,23 +65,8 @@ app.post("/login", async (req, res) => {
   }
 });
 
-// 🎯 Health Check Route (for debugging & monitoring)
-app.get("/", (req, res) => {
-  res.json({ message: "Backend is running!", status: "OK" });
-});
-
-// 🚀 Start Server with Port Conflict Handling
+// 🚀 Start Server
 const PORT = process.env.PORT || 10000;
-const server = app.listen(PORT, () => {
+app.listen(PORT, () => {
   console.log(`✅ Server running on port ${PORT}`);
-});
-
-// Handle port already in use error
-server.on("error", (err) => {
-  if (err.code === "EADDRINUSE") {
-    console.error(`⚠️ Port ${PORT} is in use, retrying on another port...`);
-    server.listen(0); // Auto-assign available port
-  } else {
-    console.error("Server Error:", err);
-  }
 });
